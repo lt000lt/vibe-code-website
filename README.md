@@ -1,6 +1,6 @@
 # vibe-code-website
 vibe-code-website
-This is an exercise from "A Teen Guide to Vibe Coding" by Ju-Lien Toole. 
+This is an exercise from following https://medium.com/@limtoole/vibe-coding-just-broke-the-internet-and-made-every-kid-a-web-developer-6251bb56c9f8.
 
 To view the website, go to https://lt000lt.github.io/vibe-code-website/.
 
